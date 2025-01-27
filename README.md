@@ -13,5 +13,5 @@ It is a full-stack web application designed to provide a seamless online shoppin
 
 ### For Admins
 - **Product Management**: Add, update, or remove products.
-- **Order Management**: View and manage customer orders.
+- **Order Management**: View and manage customer orders
 - **User Management**: Manage customer accounts and admin roles.
